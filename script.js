@@ -212,9 +212,9 @@ struct Pilha minhaPilha;`,
   },
   {
     pergunta: `27) Sobre estruturas de dados básicas, assinale com V as verdadeiras e com F as falsas:\n( ) Listas lineares são estruturas adequadas a aplicações em que não se pode prever a demanda por memória.\n( ) Filas são listas lineares em que, geralmente, todos os acessos são feitos em apenas um extremo.\n( ) Pilhas são listas lineares em que os primeiros elementos incluídos são os primeiros retirados.`,
-    correta: "B",
+    correta: "C",
     opcoes: ["A) V, V, V", "B) V, V, F", "C) V, F, F", "D) F, F, V"],
-    justificativa: "As duas primeiras afirmativas são verdadeiras, enquanto que a última sobre pilhas está incorreta."
+    justificativa: "."
   },
   {
     pergunta: `28) Qual estrutura garante a ordem correta de exibição de pacotes A, B, C, D, E recebidos fora de ordem numa aplicação de streaming?`,
